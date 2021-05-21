@@ -145,10 +145,16 @@
         max-width: 1200px;
     }
 
+    .section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
     .grid-container {
         padding: 20px;
         display: grid;
-        grid-template-columns: repeat(4,1fr);
+        grid-template-columns: repeat(4,180px);
         grid-template-rows: repeat(2, 1fr);
         gap: 30px 10px;
     }
