@@ -76,7 +76,7 @@
     grid-row: 4/5;
 }
 
-/*.slide:hover,*/
+.slide:hover,
 .ebook:hover,
 .banner:hover,
 .id-visual:hover,
@@ -91,7 +91,6 @@
 }
 
 .slide {
-    background-color: #359693;
     display: flex;
     justify-content: center;
     align-items: center;
