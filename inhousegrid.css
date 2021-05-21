@@ -141,7 +141,8 @@
 
 @media screen and (min-width:1024px) {
     .settings {
-        margin: 0 100px;
+        margin: 0 auto;
+        max-width: 1200px;
     }
 
     .grid-container {
